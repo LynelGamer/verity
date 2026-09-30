@@ -1,9 +1,9 @@
 {
-  "name": "Verity",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "bachirasmp.aternos.me",
@@ -30,9 +30,7 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "Hello! I'm Verity, your personal helper friend! Ask me anything, I know everything"
       ]
     },
     "chat-log": true,
